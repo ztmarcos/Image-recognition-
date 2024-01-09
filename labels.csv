@@ -1,4 +1,3 @@
-blob1.png
 Labels for blob blob1.png:
 Water 0.9788500070571899
 Sky 0.9357091784477234
@@ -10,8 +9,8 @@ Sunlight 0.8483020663261414
 Travel 0.83608078956604
 Horizon 0.8298113942146301
 Headgear 0.8111134767532349
-city.jpeg
 -----
+
 Labels for blob city.jpeg:
 Building 0.946435272693634
 Daytime 0.9461089372634888
@@ -23,7 +22,7 @@ Road surface 0.8867555260658264
 Window 0.8644481301307678
 Tree 0.8546936511993408
 Sunlight 0.8506043553352356
-house.jpeg
+
 -----
 Labels for blob house.jpeg:
 Jeans 0.971866250038147
